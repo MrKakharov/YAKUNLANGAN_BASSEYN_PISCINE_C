@@ -1,16 +1,16 @@
-<h1> 「 Tugallangan C Piscine 」 </h1> 
+<h1> 「 Completed Piscine C 」 </h1> 
 
 ------------------------------------------------------------------------------------
 
 <details>
-<summary> BASSYN MAZMUNI </summary>
+<summary> СОДЕРЖИМОЕ БАССЕЙНА </summary>
 
 ------------------------------------------------------------------------------------
 
-- Kun 01: Shell00 - Unix buyruq qatori
-- Kun 02: Shell01 - Unix buyruq qatori
+- День 01: Shell00 - Командная строка Unix 
+- День 02: Shell01 - Командная строка Unix
 
-- Kun 03: C00: 
+- День 03: C00: 
     * ex00 = ft_putchar.c 
     * ex01 = ft_print_alphabet.c 
     * ex02 = ft_print_reverse_alphabet.c 
@@ -21,7 +21,7 @@
     * ex07 = ft_putnbr.c 
     * ex08 = ft_print_combn.c
 
-- Kun 04: C01: 
+- День 04: C01: 
     * ex00 = ft_ft.c 
     * ex01 = ft_ultimate_ft.c 
     * ex02 = ft_swap.c 
@@ -31,9 +31,9 @@
     * ex06 = ft_strlen.c 
     * ex07 = ft_rev_int_tab.c 
     * ex08 = ft_sort_int_tab.c 
-- Kun 05-07: Rush00 - Turli o'lchamdagi individual panjaralarni ko'rsatadigan dastur yozish.
+- День 05-07: Rush00 - Написать программу отображения индивидуальных сеток с различными размерами.
 
-- Kun 08: C02:
+- День 08: C02:
     * ex00 = ft_strcpy.c 
     * ex01 = ft_strncpy.c 
     * ex02 = ft_str_is_alpha.c 
@@ -48,7 +48,7 @@
     * ex11 = ft_putstr_non_printable.c 
     * ex12 = ft_print_memory.c 
 
-- Kun 09: C03: 
+- День 09: C03: 
     * ex00 = ft_strcmp.c 
     * ex01 = ft_strncmp.c
     * ex02 = ft_strcat.c 
@@ -56,7 +56,7 @@
     * ex04 = ft_strstr.c 
     * ex05 = ft_strlcat.c 
 
-- Kun 10: C04: 
+- День 10: C04: 
     * ex00 = ft_strlen.c 
     * ex01 = ft_putstr.c 
     * ex02 = ft_putnbr.c 
@@ -64,7 +64,7 @@
     * ex04 = ft_putnbr_base.c 
     * ex05 = ft_atoi_base.c 
 
-- Kun 11: C05: 
+- День 11: C05: 
     * ex00 = ft_iterative_factorial.c 
     * ex01 = ft_recursive_factorial.c 
     * ex02 = ft_iterative_power.c 
@@ -75,14 +75,14 @@
     * ex07 = ft_find_next_prime.c 
     * ex08 = ft_ten_queens_puzzle.c 
 
-- Kun 12-14: Rush01 - `Osmono'parlar` (`skyscrapers`) mantiqiy boshqotirmasini yechadigan dastur yozish.
-- Kun 15: C06: 
+- День 12-14: Rush01 - Написать программу решающую логическую головоломку `Небоскребы`(`skyscapers`).
+- День 15: C06: 
     * ex00 = ft_print_program_name.c 
     * ex01 = ft_print_params.c 
     * ex02 = ft_rev_params.c 
     * ex03 = ft_sort_params.c 
 
-- Kun 16: C07: 
+- День 16: C07: 
     * ex00 = ft_strdup.c 
     * ex01 = ft_range.c 
     * ex02 = ft_ultimate_range.c 
@@ -90,7 +90,7 @@
     * ex04 = ft_convert_base.c 
     * ex05 = ft_split.c 
 
-- Kun 17: C08: 
+- День 17: C08: 
     * ex00 = ft.h 
     * ex01 = ft_boolean.h 
     * ex02 = ft_abs.h 
@@ -98,20 +98,20 @@
     * ex04 = ft_strs_to_tab.h | ft_strs_to_tab.c 
     * ex05 = ft_show_tab.h | ft_show_tab.c 
 
-- Kun 18: C09: 
+- День 18: C09: 
     * ex00 = libft_creator.sh | ft_putchar.c | ft_swap.c | ft_putstr.c | ft_strlen.c | ft_strcmp.c
     * ex01 = Makefile
     * ex02 = ft_split.c
 
-- Kun 19-21: Rush02.
+- День 19-21: Rush02.
 
-- Kun 22: C10: 
+- День 22: C10: 
     * ex00 = ft_display_file
     * ex01 = ft_cat
     * ex02 = ft_tail
     * ex03 = ft_hexdump
 
-- Kun 23: C11: 
+- День 23: C11: 
     * ex00 = ft_foreach.c 
     * ex01 = ft_map.c 
     * ex02 = ft_any.c
@@ -121,7 +121,7 @@
     * ex06 = ft_sort_string_tab.c
     * ex07 = ft_advanced_sort_string_tab.c
 
-- Kun 24: C12: 
+- День 24: C12: 
     * ex00 = ft_create_elem.c | ft_list.h
     * ex01 = ft_list_push_front.c | ft_list.h
     * ex02 = ft_list_size.c | ft_list.h
@@ -141,7 +141,7 @@
     * ex16 = ft_sorted_list_insert.c | ft_list.h
     * ex17 = ft_sorted_list_merge.c | ft_list.h
 
-- Kun 25: C13: 
+- День 25: C13: 
     * ex00 = btree_create_node.c | ft_btree.h
     * ex01 = btree_apply_prefix.c | ft_btree.h 
     * ex02 = btree_apply_infix.c | ft_btree.h
@@ -151,93 +151,94 @@
     * ex06 = btree_level_count.c | ft_btree.h
     * ex07 = btree_apply_by_level.c | ft_btree.h
 
-- Yakuniy loyiha: BSQ - Berilgan xaritada eng katta kvadratni topib, uni ko'rsatadigan dastur yozish.
+- Финальный проект : BSQ - Написать программу, которая находит самый большой квадрат на данной карте и отображает его.
 
 </details>
 
 ------------------------------------------------------------------------------------
 
-## Tavsif
+## Описание
 
- • Ushbu repozitoriyda C tilidagi birinchi basseynning har bir kuniga oid bajarilgan va izohlangan topshiriqlarning ko'plab versiyalari mavjud. 
+ • Этот репозиторий содержит множество версий выполненных и закомментированных задач на каждый день самого первого бассейна по Си. 
 
- • Hozirda `Exam_C`, `shell00`, `shell01`, `Rush00` va `c00`dan `c13`gacha bo'lgan papkalardagi topshiriqlarni to'g'ri ishlashini tekshirish ishlari bajarildi.
-
-
- • Har bir `basseyn kuni` papkasida topshiriqlar ingliz yoki fransuz tilida yozilgan pdf fayllar mavjud. 
+ • На данный момент выполнена работа по проверке заданий на корректную работоспособность у папки `Exam_C`, `shell00`, `shell01` , `Rush00` и папок от `с00` до `с13` включительно.
 
 
- • Shuningdek, har bir `basseyn kuni` papkasida talab qilingan topshiriqni bajarishning bir nechta versiyasini o'z ichiga olgan yagona fayl (yoki fayllar guruhi) bo'lgan kichik papkalar mavjud. Ushbu fayldagi topshiriqning bajarilish versiyalari bir-biridan uch qatorli izoh bilan ajratiladi. 
+ • Каждая папка каждого `дня бассейна` содержит pdf файл с заданиями написанные на английском либо французском языке. 
 
 
- • Agar topshiriq bir nechta fayllarni o'z ichiga olishi kerak bo'lsa (bunday topshiriqlar oxiriga yaqinroq bo'ladi), uning bajarilish versiyalari kichik papkalarga bo'linadi.
+ • Также, в самих папках каждого `дня бассейна` будут подпапки содержащие в себе одиночный файл(или группу файлов) с требуемым названием, хранящие внутри себя несколько версий выполения требуемого задния. Эти версии выполнения задания в файле будут разделены между собой тройной строкой комментария. 
+
+
+ • Если задание требует содержать в себе несколько файлов(такие задания будут ближе к концу), то версии его выполнения будут разделены по подпапкам.
  
- Masalan: 
+ Например: 
  
-      "./c10/ex06/Solution_00/",
-      "./c10/ex06/Solution_01/",
-      "./c10/ex06/Solution_02/",
-      va hokazo.
+      "./с10/ex06/Solution_00/",
+      "./с10/ex06/Solution_01/",
+      "./с10/ex06/Solution_02/",
+      и т.д.
 
 
- • Shuningdek, bajarilgan topshiriq papkasida test fayli yoki test fayllari bo'lgan papka bo'lishi mumkin, ularni kompilyatsiya qilib, topshiriqda talab qilingan funksiya (yoki bir nechta funksiyalar) qanday ishlashini ko'rishingiz mumkin.
+ • Так же в папке выполненого задания может содержаться тестовый файл или папка с тестовыми файлами, скомпилировав которые можно посмотреть как работает требуемая в заданиии функция(или несколько функций).
 
 ------------------------------------------------------------------------------------
 
->  Topshiriqlarni tushunish uchun `42 Maktab`ning nazariya va misollar bilan 10-30 daqiqalik o'quv videolaridan foydalaning (pleyerda subtitrlar va ularni kerakli tilga tarjima qilish funksiyasidan foydalaning):
+>  Чтобы разобраться в заданиях используйте обучающие видео `Школы 42` на 10-30 минут с теорией и примерами(используйте в плеере функцию субтитров и их перевода на нужный вам язык):
 >
-> | [Shell va Git video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | [C00 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-) | [C01 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs) | [C05 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah)| [C06 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW) | [C07 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt) | [C08 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy) | [C09 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU) | [C11 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz) | [C12 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj) | [C13 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9) |
+> | [Shell and Git video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | [C00 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-) | [C01 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs) | [C05 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah)| [C06 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW) | [C07 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt) | [C08 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy) | [C09 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU) | [C11 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz) | [C12 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj) | [C13 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9) |
 
 ------------------------------------------------------------------------------------
 
->  Ushbu repozitoriydagi fayllarning mazmunini to'g'ri ko'rish uchun repozitoriyani kompyuteringizga klonlab, fayllarni sizga qulay bo'lgan kod muharriri orqali oching.
+>  Для корректного отображения содержимого файлов, этого репозитория - склонируйте репозиторий к себе на компьютер и открывайте файлы через любой удобный вам редактор кода.
 
 ------------------------------------------------------------------------------------
 
-## Kompilyatsiya:
+## Компиляция:
 
-Qisqacha aytganda, kompilyatsiya - bu C tilidagi dastur kodini markaziy protsessor uchun tushunarli bo'lgan mashina kodiga tarjima qilish jarayoni. Bu bizning dasturimizni ishga tushirishimiz va u markaziy protsessor yordamida dasturlashtirilgan harakatlarni bajarishi uchun zarur.
+Если кратко, то компиляция - это процесс трансляции файла с исходным кодом на языке Си в машинный код, который будет понятен для центрального процессора. Это нужно для того чтобы мы могли запустить нашу программу и она, с помощь центрального процессора, могла выполнить запрограммированные нами действия.
 
-Dasturimizni kompilyatsiya qilish uchun avval dastur kodini o'z ichiga olgan papkaga o'tamiz. Terminal oynasini oching va `cd` buyrug'i va dastur kodini o'z ichiga olgan papka manzili yordamida fayl joylashgan papkaga o'ting (masalan, mening faylim `Hujjatlar` papkasida joylashgan): 
+Для компиляции нашей программы вначале перейдем в папку содержащую файл с написанным нами исходным кодом этой программы. Откройте окно терминала и с помощью команды `cd` и `адреса до папки` содержащей файл с исходным кодом перейдите в папку где он находится(допустим у меня он лежит в папке `Документы`): 
 
-      cd ~/Hujjatlar
-
-
-Masalan, `test.c` faylini kompilyatsiya qilish uchun terminalda quyidagilarni yozing:
- * `kompilyator dasturi nomi` (bizning faylimizni matnli ko'rsatmalardan protsessor uchun tushunarli mashina kodiga aylantiradigan dastur).
- * `kompilyatsiya parametrlari`ni qo'shing 
- * Va `fayl manzilini` ko'rsating (biz allaqachon fayl joylashgan papkada bo'lganimiz uchun fayl manzilini shunday yozamiz: `test.c`). 
+      cd ~/Документы
 
 
-Natijada, C tilidagi dastur kodini protsessor uchun tushunarli bajariladigan faylga kompilyatsiya qilish uchun quyidagi buyruqni yozishingiz kerak: 
+Что бы скомпилировать, к примеру, файл `test.c` содержащий написанный напи исходный код программы нужно:
+ * Написать в терминале `имя программы-компилятора`(с помощью которого вы будете перобразовывать наш файл с текстовыми инструкциями в машинный код понятный процессору).
+ * Добавить `параметры компиляции` 
+ * И указать `путь до файла` содержащего исходный код нашей программмы(т.к. мы уже находимся в дериктории с этим файлом то адрес до файла мы запишем вот так `test.c` ). 
+
+
+В итоге у вас должна получиться вот такая команда для компиляции файла с исходным кодом(на языке Cи) в исполняемый файл понятный процессору : 
 
       gcc -Wall -Werror -Wextra test.c 
 
 
-Keyin Enter tugmasini bosing va chiqishda (agar sizda `unix` oilasiga mansub tizim bo'lsa) `a.out` faylini olasiz. Agar sizda `windows` tizimi bo'lsa, chiqishda `a.exe` faylini olasiz. 
+Далее нажимаем Enter и на выходе(если у вас система семейства `unix`) получим файл `a.out`. Если же у вас система `windows` то на выходе вы получите файл `a.exe`. 
 
-Bajariladigan dastur fayli terminal oynasida kompilyatsiya qilingan fayl joylashgan papkada paydo bo'ladi.
+Исполняемый файл программы появится в той дерриктории, в которую вы перешли в через окно терминала перед компиляцией(в котором компилировали файл с исходным кодом).
 
 
 
-## Yaratilgan dasturni ishga tushirish xususiyatlari:
+## Особенности запуска полученой программы:
 
-Agar sizda `Windows` bo'lsa, dasturni terminal oynasida uning manzilini yozish orqali ishga tushirishingiz mumkin:
+Если у вас `Windows` запустить программму можно просто написав в окне терминала путь к ней :
 
       ./a.exe
 
-Ammo agar sizda `Linux` yoki `Unix` oilasiga mansub boshqa operatsion tizim bo'lsa, tizim siz yaratgan bajariladigan faylni ishga tushirishga ruxsat berishi uchun uni bajarish huquqini berishingiz kerak! Aks holda, tizim uni ishga tushirishga ruxsat bermaydi. 
+Но если у вас `Linux` или др операционная система семейства `Unix`, то для того чтобы система позволила вам запустить исполняемый файл с созданной вами программой, перед запуском необходимо дать этому исполняемому файлу права на выполнение! Иначе, система не позволит его запустить. 
 
-Shuning uchun, bajariladigan faylga quyidagi buyruq yordamida bajarish huquqini beramiz: 
+По этому дадим нашему `исполняемому файлу` права на выполнение, вот такой командой, прописав в терминале < *имя программы* >, < *аргументы выполения* > и < *путь до файла* >: 
 
       chmod +x ./a.out
 
- Dasturni terminal orqali ishga tushirish uchun terminal oynasida uning manzilini yozing: 
+ Чтобы запустить программу через терминал напишите в окне терминала путь к ней: 
 
       ./a.out
 
-Vaqtni tejash uchun barcha buyruqlarni bitta qatorga yozib, terminal oynasida quyidagicha yozishingiz mumkin:
+Чтобы не терять время, можно все команды соединить в одну строку записав в окне терминала вот так:
 
       gcc -Wall -Werror -Wextra test.c && chmod +x ./a.out && ./a.out
 
 <p align=center ><img src='./map_of_the_Piscine_C.png'></p>
+
